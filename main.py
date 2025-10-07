@@ -14,7 +14,7 @@ from telegram.constants import ParseMode
 # --- 1. BOT KONFIGURATSIYASI (СІЗДІҢ НҰСҚАУЫҢЫЗ БОЙЫНША) ---
 # .env файлының орнына, барлық баптаулар осында жазылады.
 # VPS-те іске қоспас бұрын, осы жерді өзгертіңіз.
-BOT_TOKEN = "8302815646:AAGAQF_XxXtMm8XEEdnPrnt8EwqJBLghnaU"  # Өз токеніңізді қойыңыз
+BOT_TOKEN = "8302815646:AAF8Rs82T7i3NvvamzaEdtqA5uEZHTU9dJk"  # Өз токеніңізді қойыңыз
 SUPER_ADMINS = [7483732504]  # Өз Telegram ID-іңізді жазыңыз
 VIP_GREETING_STICKER_ID = "CAACAgIAAxkBAAEj03Zl-YcxA0gVGt0p-5g0b5GJdF8pAwACeAcAAlw_CQc2Wd5PZXzm1zQE"
 ADMIN_IDS = SUPER_ADMINS
@@ -106,3 +106,4 @@ def main() -> None:
 
 if __name__ == "__main__":
     main()
+
