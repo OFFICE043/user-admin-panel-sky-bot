@@ -260,3 +260,4 @@ def register_admin_handlers(application: Application):
         application.add_handler(handler)
 
     logger.info("Admin panel handler-lari muvaffaqiyatli o'rnatildi.")
+
